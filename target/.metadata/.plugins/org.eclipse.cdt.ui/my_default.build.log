@@ -1,0 +1,7 @@
+23:47:57 **** Clean-only build of configuration Debug for project my_default ****
+make -j8 clean 
+rm -rf *
+ 
+
+23:47:57 Build Finished. 0 errors, 0 warnings. (took 187ms)
+

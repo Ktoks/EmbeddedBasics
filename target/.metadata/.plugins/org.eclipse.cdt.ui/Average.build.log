@@ -1,0 +1,7 @@
+15:40:07 **** Incremental Build of configuration Debug for project Average ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -c -fmessage-length=0 -o main_new.o "..\\main_new.c" 
+gcc -o Average.exe ".metadata\\.plugins\\org.eclipse.cdt.make.core\\specs.o" main_new.o 
+
+15:40:08 Build Finished. 0 errors, 0 warnings. (took 344ms)
+

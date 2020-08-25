@@ -1,0 +1,5 @@
+22:45:55 **** Clean-only build of configuration Debug for project area ****
+rm -rf main.d area.exe main.o 
+
+22:45:55 Build Finished. 0 errors, 0 warnings. (took 125ms)
+

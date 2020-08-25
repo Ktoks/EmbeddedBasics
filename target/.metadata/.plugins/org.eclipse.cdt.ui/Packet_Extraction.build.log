@@ -1,0 +1,10 @@
+13:49:14 **** Incremental Build of configuration Debug for project Packet_Extraction ****
+make -j8 all 
+arm-none-eabi-size   Packet_Extraction.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8776	    472	   1584	  10832	   2a50	Packet_Extraction.elf
+Finished building: default.size.stdout
+ 
+
+13:49:14 Build Finished. 0 errors, 0 warnings. (took 172ms)
+

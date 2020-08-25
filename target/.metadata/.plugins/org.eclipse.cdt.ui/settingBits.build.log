@@ -1,0 +1,5 @@
+22:45:56 **** Clean-only build of configuration Debug for project settingBits ****
+rm -rf settingBits.exe main.o main.d 
+
+22:45:56 Build Finished. 0 errors, 0 warnings. (took 109ms)
+

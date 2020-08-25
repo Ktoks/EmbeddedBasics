@@ -1,0 +1,5 @@
+22:45:55 **** Clean-only build of configuration Debug for project bitwise ****
+rm -rf main.o bitwise.exe main.d 
+
+22:45:55 Build Finished. 0 errors, 0 warnings. (took 110ms)
+
